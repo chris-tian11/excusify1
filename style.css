@@ -1,0 +1,21 @@
+
+* {
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+#line_2 {
+    margin-right: 850px;
+    width: 530px;
+    border: 1.5px solid black;
+    border-radius: 1.5px;
+}
+
+#line_1 {
+    margin-right: 1300px;
+    width: 200px;
+    border: 1.5px solid black;
+    border-radius: 1.5px;
+}
